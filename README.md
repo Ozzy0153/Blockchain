@@ -11,7 +11,6 @@ This is a simple blockchain application implemented in Java.
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -49,7 +48,3 @@ This project implements a basic blockchain application with proof-of-work mining
 ## Contributing
 
 If you'd like to contribute to this project, please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
